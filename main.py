@@ -74,7 +74,6 @@ def analiz():
 
 
 def dop_task():
-    # importing the necessary packages
     import time
     import sys
     import os
